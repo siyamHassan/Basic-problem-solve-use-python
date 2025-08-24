@@ -7,3 +7,4 @@ for a in low:
         if b.startswith(a):
             new.append(b)
 print(new)
+# output:['banana', 'kiwi', 'mango', 'orange', 'pineapple']
